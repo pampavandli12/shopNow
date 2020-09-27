@@ -1,0 +1,17 @@
+.logo_container {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+}
+.logo_container .firstText {
+  color: #80b380;
+}
+.spacer {
+  flex: 1 1 auto;
+}
+.white {
+  color: #fff !important;
+}
+.ml_1 {
+  margin-left: 1rem !important;
+}

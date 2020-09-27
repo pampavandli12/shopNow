@@ -1,0 +1,15 @@
+.product_card {
+  width: 300px;
+}
+.content {
+  width: 100%;
+}
+img {
+  width: 100%;
+}
+.centered {
+  text-align: center;
+}
+.largebtn {
+  width: 100%;
+}
